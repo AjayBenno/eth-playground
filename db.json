@@ -4,22 +4,30 @@
             "id": 0,
             "description": "Brian under the night sky",
             "external_url": "",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "image": "https://raw.githubusercontent.com/AjayBenno/eth-playground/main/exported/edc_exported.jpg",
             "name": "Brian @ EDC"
         },
         {
             "id": 1,
             "description": "Brian on an amphitheater",
             "external_url": "",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "image": "https://raw.githubusercontent.com/AjayBenno/eth-playground/main/exported/redrocks_exported.jpeg",
             "name": "Brian @ Red Rocks"
         },
         {
             "id": 2,
             "description": "Brian enjoying himself in his home base",
             "external_url": "",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "image": "https://raw.githubusercontent.com/AjayBenno/eth-playground/main/exported/mirage_exported.jpeg",
             "name": "Brian @ Brooklyn Mirage"
+        },
+        ,
+        {
+            "id": 3,
+            "description": "Brian is now bob",
+            "external_url": "",
+            "image": "https://raw.githubusercontent.com/AjayBenno/eth-playground/main/exported/ezoo_exported.jpg",
+            "name": "Brian @ EZOO"
         }
     ]
 }
